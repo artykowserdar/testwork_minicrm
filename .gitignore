@@ -1,0 +1,11 @@
+.venv
+logs
+*.db
+.idea
+__pycache__
+*.pyc
+.idea/*
+excel
+/cache/
+/.idea
+*.xml
